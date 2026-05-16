@@ -111,7 +111,7 @@ export default function HomePage() {
           <h3 className="text-lg font-semibold text-white">Proof, not promises</h3>
           <p className="mt-2 text-sm text-gray-400">
             Case studies and logos land here next. For now, use the analyzer and assistant on
-            this site—they are the same integration patterns we ship for clients.
+            this site—they are the same integration patterns we ship for clients
           </p>
           <Link href="/feedback" className="mt-4 inline-block text-sm font-semibold">
             Tell us what you would like to see as social proof →
