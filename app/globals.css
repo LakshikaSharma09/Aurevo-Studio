@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-aurevo-ink text-gray-100 antialiased;
+}
+
+a {
+  @apply text-aurevo-accent hover:text-aurevo-accentDim transition-colors;
+}
