@@ -22,7 +22,7 @@ export default function PrivacyPage() {
       <h2 className="text-xl font-semibold text-white">Contact</h2>
       <p className="text-gray-400">
         Questions: use the Book or Feedback pages, or reach out through the channel we provide in
-        your agreement.
+        your agreement
       </p>
     </article>
   );
